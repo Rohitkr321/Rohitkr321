@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohitkr321
+- 👋 Hi, I’m Rohit kumar
 - 👀 I’m interested in Web ddevlopment
 - 🌱 I’m currently learning programing language
 - 💞️ I’m looking to collaborate on ...
