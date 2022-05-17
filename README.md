@@ -1,7 +1,7 @@
                                                                👋 Hi, I’m Rohit kumar
                                                                
- -😁 I Like to Solve Server side Problem                                                                             -🖐 I'm Full Stack Developer.
-- 🌱 I’m currently learning programing language                                                                      -😁 C++ is the Best language for me
+ -😁 I Like to Solve Server side Problem............................................................................  -🖐 I'm Full Stack Developer.
+- 🌱 I’m currently learning programing language.......................................................................-😁 C++ is the Best language for me
                                                                       
                                                                 👤contact: 9334156392
 - 
