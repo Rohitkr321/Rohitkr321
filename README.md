@@ -1,9 +1,9 @@
-                                                                  - 👋 Hi, I’m Rohit kumar
-- 👀 I’m interested in Web ddevlopment
-- 🌱 I’m currently learning programing language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 👤contact: 9334156392
+                                                               👋 Hi, I’m Rohit kumar
+                                                               
+ -😁 I Like to Solve Server side Problem                                                                             -🖐 I'm Full Stack Developer.
+- 🌱 I’m currently learning programing language                                                                      -😁 C++ is the Best language for me
+                                                                      
+                                                                👤contact: 9334156392
 - 
 
 <!---
