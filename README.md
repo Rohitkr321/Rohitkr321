@@ -6,6 +6,8 @@
  - 😁 C++ is the Best language for me
                                                                       
                                                               👤contact: 9334156392
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohitkr321&show_icons=true&theme=onedark&border_radius=10bg_color=dark">
+  
 
 <!---
 Rohitkr321/Rohitkr321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
