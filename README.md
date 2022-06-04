@@ -1,4 +1,4 @@
-                                                               👋 Hi, I’m Rohit kumar
+                                                               🖐 Hi, I’m Rohit kumar
                                                                
  - 😁 I Like to Solve Server side Problem. 
  - 🖐 I'm Full Stack Developer.
