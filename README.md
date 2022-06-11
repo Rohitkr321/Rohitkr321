@@ -1,4 +1,4 @@
-<h3 align='center'>I'm Rohit kumar🖐</h3>
+<h3 align='center'>I'm Rohit kumar<img align='center' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
                                                       
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,7 +11,7 @@
  <p>🌱 I’m currently learning programing language</p>  
  <P>😁 C++ is the Best language for me</p>  
                                                         
-  <h3 align="center">👤Contact: +91 9334156392</h3>                                                       
+<h3 align='center'>👤Contact: +91 9334156392</h3>                                                
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rohitkr321&show_icons=true&theme=onedark&border_radius=10bg_color=dark">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitkr321&layout=compact&langs_count=8&border=none&theme=white">
