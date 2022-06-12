@@ -6,12 +6,13 @@
 <a href="https://www.linkedin.com/in/rohit-kumar-a5774319a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
   <a href="https://rohitkr321.github.io/my_portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="" height="30" width="40" /></a>
 </p>
+<hr>
   <P>                                                      
  😁 I Like to Solve Server side Problem. </p>  
  <p>🖐 I'm Full Stack Developer.</p>  
  <p>🌱 I’m currently learning programing language</p>  
  <P>😁 C++ is the Best language for me</p>  
-                                                        
+ <hr>  
 <h3 align='center'>👤Contact: +91 9334156392</h3>                                                
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rohitkr321&show_icons=true&theme=onedark&border_radius=10bg_color=dark">
 
