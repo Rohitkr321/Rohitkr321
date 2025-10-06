@@ -1,24 +1,45 @@
-<h3 align='center'>I'm Rohit kumar<img align='center' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
-                                                      
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Rohitkumar9331" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="[https://www.linkedin.com/in/rohit-kumar-a5774319a/](https://www.linkedin.com/in/rohit-kumar-sde/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-  <a href="https://rohitkr321.github.io/my_portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
+<h3 align="center">🚀 Full Stack Developer | 💻 Problem Solver | 🧠 C++ Enthusiast</h3>
+
+---
+
+<h3 align="center">🌐 Connect with me:</h3>
+
+<p align="center">
+  <a href="https://twitter.com/Rohitkumar9331" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" width="40" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rohit-kumar-sde/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://rohitkr321.github.io/my_portfolio/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" height="40" width="40" alt="Portfolio"/>
+  </a>
+  <a href="mailto:rohitkumar9122565209@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" alt="Gmail"/>
+  </a>
 </p>
-<hr>
-  <P>                                                      
- 😁 I Like to Solve Server side Problem. </p>  
- <p>🖐 I'm Full Stack Developer.</p>  
- <p>🌱 I’m currently learning programing language</p>  
- <P>😁 C++ is the Best language for me</p>  
- <hr>  
-<a href="mailto:rohitkumar9122565209@gmail.com"><img align='center'src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>        
 
+---
 
+<h3 align="left">🧩 About Me:</h3>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rohitkr321&show_icons=true&theme=onedark&border_radius=10bg_color=dark">
+<ul>
+  <li>😁 I like to solve <b>server-side problems</b>.</li>
+  <li>🖐 I'm a <b>Full Stack Developer</b>.</li>
+  <li>🌱 Currently learning and exploring new programming languages.</li>
+  <li>💙 <b>C++</b> is my favorite language for DSA and problem solving.</li>
+</ul>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitkr321&layout=compact&langs_count=8&border=none&theme=white">
- 
+---
 
+<h3 align="center">📊 GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohitkr321&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitkr321&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+---
+
+<h3 align="center">💬 “Keep coding, keep improving.”</h3>
